@@ -4,6 +4,6 @@ Educational example of telegram bot
 Установка и запуск:
 
 ~~~
-pip install -r requirements.txt
-python bot.py --env-file .env
+python3.7 -m pip install -r requirements.txt
+python3.7 bot.py
 ~~~
