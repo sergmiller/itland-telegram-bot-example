@@ -112,7 +112,7 @@ def send_report(update, lat, lon, city):
     times = report["hourly"]["time"]
     temps = report["hourly"]["temperature_2m"]
     import datetime
-    d = datetime.datetime.now().replace(minute=0).isoformat()
+    d = datetime.datetime.utcnow().replace(minute=0).isoformat()
     cur_time = ':'.join(d.split(':')[:-1])
     next_tmp = None
     for tm, tp in zip(times, temps):
