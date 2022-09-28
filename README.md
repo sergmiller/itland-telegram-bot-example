@@ -1,7 +1,7 @@
 # itland-telegram-bot-example
 Educational example of telegram bot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JMtf-r4lBBSvD_K443mfZy23_6ekvmPa?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RvzBc-j5zwbyBrViOUQ8vMqBABxi-QXS?usp=sharing)
 
 Установка и запуск:
 
